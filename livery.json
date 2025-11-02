@@ -78,4 +78,14 @@
                     "credits": "CP8888"
                 }
             ],      
-
+          "8": {
+            "name": "Airbus a330-900neo",
+            "liveries": [
+                {
+                    "name": "Hainan Airlines",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/hainan339.png"
+                    ],
+                    "credits": "TOMAIIM＆CP8888"
+                }
+            ],      
