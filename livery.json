@@ -1,19 +1,49 @@
 {
-    "name": "Travel Airways",
-    "color": "#10A4A5",
-    "bgcolor": "#FFFFFF",
-    "aircrafts": {
-        "1": {
-            "name": "Piper J3 Cub",
-            "liveries": [],
-            "labels": [
-                "Texture"
-            ]
-        },
-        "2": {
-            "name": "Cessna 172 Skyhawk",
-            "liveries": [],
-            "labels": [
-                "Texture"
-            ]
-        },
+    "name": "livery",
+     "1": {
+            "name": "Boeing b787-9",
+            "liveries": [
+                {
+                    "name": "ANA(Star Alliance livery)",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/ANA789.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
+         
+ "2": {
+            "name": "Boeing b737-800",
+            "liveries": [
+                {
+                    "name": "Hebei Airlines (50th aircraft sticker)",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/B-1446.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
+     "3": {
+            "name": "Boeing b737max8",
+            "liveries": [
+                {
+                    "name": "shenzhen Airlines",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/shenzhen7M8.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
+         "4": {
+            "name": "Boeing b737-700",
+            "liveries": [
+                {
+                    "name": "SAS(old design)",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/%E5%8C%97%E6%AC%A7%E8%80%81737-700.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
+         
+
