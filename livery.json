@@ -27,7 +27,7 @@
             "name": "Boeing b737max8",
             "liveries": [
                 {
-                    "name": "shenzhen Airlines",
+                    "name": "Shenzhen Airlines",
                     "texture": [
                         "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/shenzhen7M8.png"
                     ],
@@ -45,5 +45,37 @@
                     "credits": "CP8888"
                 }
             ],
-         
+         "5": {
+            "name": "Airbus a321-211",
+            "liveries": [
+                {
+                    "name": "Air China(Star Alliance livery)",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/CA%E6%98%9F%E7%A9%BA321.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
+          "6": {
+            "name": "Airbus a330-900neo",
+            "liveries": [
+                {
+                    "name": "Hainan Airlines(old design)",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/hainan(old).png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],   
+           "7": {
+            "name": "Airbus a320neo",
+            "liveries": [
+                {
+                    "name": "Air Macau",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/%E6%BE%B3%E9%97%A832N.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],      
 
