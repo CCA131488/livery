@@ -89,3 +89,58 @@
                     "credits": "TOMAIIM＆CP8888"
                 }
             ],      
+          "9": {
+            "name": "Boeing 747-8F",
+            "liveries": [
+                {
+                    "name": "UPS(ex Qatar Cargo)",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/UPS%E5%89%8D%E8%BA%AB%E5%8D%A1%E5%A1%94%E5%B0%94748F.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],      
+           "10": {
+            "name": "Boeing 737-800",
+            "liveries": [
+                {
+                    "name": "Hainan Airlines",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/Hainan.jpg"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],    
+            "11": {
+            "name": "Airbus A350-900",
+            "liveries": [
+                {
+                    "name": "YX Airlines(Baf livery)",
+                    "texture": [
+                        "file:///D:/%E8%81%8A%E5%A4%A9/1762086710953%20(1).png"
+                    ],
+                    "credits": "YX"
+                }
+            ], 
+            "12": {
+            "name": "Comac C919",
+            "liveries": [
+                {
+                    "name": "YX Airlines Cargo",
+                    "texture": [
+                        "file:///D:/%E8%81%8A%E5%A4%A9/1762083372611.png"
+                    ],
+                    "credits": "YX"
+                }
+            ], 
+            "13": {
+            "name": "Comac C919",
+            "liveries": [
+                {
+                    "name": "Air France",
+                    "texture": [
+                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/Air%20France%20736.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ], 
