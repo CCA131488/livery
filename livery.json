@@ -6,7 +6,7 @@
                 {
                     "name": "ANA(Star Alliance livery)",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/ANA789.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/787-9/ANA789.png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -18,7 +18,7 @@
                 {
                     "name": "Hebei Airlines (50th aircraft sticker)",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/B-1446.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/737-800/B-1446.png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -29,7 +29,7 @@
                 {
                     "name": "Shenzhen Airlines",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/shenzhen7M8.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/737MAX8/shenzhen7M8.png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -40,7 +40,7 @@
                 {
                     "name": "SAS(old design)",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/%E5%8C%97%E6%AC%A7%E8%80%81737-700.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/737-700/SASold737-700.png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -51,7 +51,7 @@
                 {
                     "name": "Air China(Star Alliance livery)",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/CA%E6%98%9F%E7%A9%BA321.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/A321-211/CA321star.png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -62,7 +62,7 @@
                 {
                     "name": "Hainan Airlines(old design)",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/hainan(old).png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/A330-900neo/hainan(old).png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -73,7 +73,7 @@
                 {
                     "name": "Air Macau",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/%E6%BE%B3%E9%97%A832N.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/A320neo/aomen32N.png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -84,7 +84,7 @@
                 {
                     "name": "Hainan Airlines",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/hainan339.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/A330-900neo/hainan339.png?raw=true"
                     ],
                     "credits": "TOMAIIM＆CP8888"
                 }
@@ -95,7 +95,7 @@
                 {
                     "name": "UPS(ex Qatar Cargo)",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/UPS%E5%89%8D%E8%BA%AB%E5%8D%A1%E5%A1%94%E5%B0%94748F.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/Boeing%20747-8F/UPS%EF%BC%88ex%20Qatar%EF%BC%89.png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -106,7 +106,7 @@
                 {
                     "name": "Hainan Airlines",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/Hainan.jpg"
+                        "https://github.com/CCA131488/livery/blob/804fb23d338e990f466e31d18b9b9a743cbedb55/livery/737-800/Hainan.jpg?raw=true"
                     ],
                     "credits": "CP8888"
                 }
@@ -117,7 +117,7 @@
                 {
                     "name": "YX Airlines(Baf livery)",
                     "texture": [
-                        "file:///D:/%E8%81%8A%E5%A4%A9/1762086710953%20(1).png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/Airbus%20A350-900/YXBAF.png?raw=true"
                     ],
                     "credits": "YX"
                 }
@@ -128,7 +128,7 @@
                 {
                     "name": "YX Airlines Cargo",
                     "texture": [
-                        "file:///D:/%E8%81%8A%E5%A4%A9/1762083372611.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/C919/YXCARGO.png?raw=true"
                     ],
                     "credits": "YX"
                 }
@@ -139,9 +139,10 @@
                 {
                     "name": "Air France",
                     "texture": [
-                        "file:///D:/%E6%A1%8C%E9%9D%A2/%E5%89%AA%E5%BD%B1/Air%20France%20736.png"
+                        "https://github.com/CCA131488/livery/blob/main/livery/Boeing%20B737-600/Air%20France%20.png?raw=true"
                     ],
                     "credits": "CP8888"
                 }
             ], 
+
 
