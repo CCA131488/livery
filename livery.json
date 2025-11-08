@@ -1,3 +1,44 @@
+name: GitHub 变更推送到 Discord
+on:
+  push:
+    paths:
+      - "**.json"  # 仅监听 JSON 文件的变更
+jobs:
+  send-notification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 发送 Discord 通知
+        uses: discordjs/discord-webhook-node@v3
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK_URL }}  # 存储在 GitHub Secrets 中的 Webhook 地址
+          username: "GitHub 机器人"  # 自定义机器人名称
+          avatar: "https://github.githubassets.com/favicons/favicon.png"  # 机器人头像（可选）
+          embeds: |
+            [
+              {
+                "author": {
+                  "name": "GeoFS-hub",  # 仓库/机器人标识，可自定义
+                  "icon_url": "https://github.githubassets.com/favicons/favicon.png"
+                },
+                "title": "JSON 文件已更新",
+                "description": "仓库：${{ github.repository }}\n提交者：${{ github.actor }}\n提交信息：${{ github.event.head_commit.message }}\n提交哈希：${{ github.event.head_commit.id }}",
+                "url": "${{ github.event.head_commit.url }}",
+                "color": 16711680,  # 红色系，可调整
+                "fields": [
+                  {
+                    "name": "分支",
+                    "value": "${{ github.ref_name }}",
+                    "inline": true
+                  },
+                  {
+                    "name": "修改的 JSON 文件",
+                    "value": "${{ join(github.event.head_commit.added, '\n') }}\n${{ join(github.event.head_commit.modified, '\n') }}\n${{ join(github.event.head_commit.removed, '\n') }}",
+                    "inline": false
+                  }
+                ],
+                "timestamp": "${{ github.event.head_commit.timestamp }}"
+              }
+            ]
 {
     "name": "livery",
      "1": {
@@ -155,5 +196,3 @@
                     "credits": "YX＆CP8888"
                 }
             ], 
-
-
