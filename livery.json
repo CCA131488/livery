@@ -134,7 +134,7 @@
                 }
             ], 
             "13": {
-            "name": "Comac C919",
+            "name": "Boeing 737-600",
             "liveries": [
                 {
                     "name": "Air France",
@@ -144,3 +144,4 @@
                     "credits": "CP8888"
                 }
             ], 
+
