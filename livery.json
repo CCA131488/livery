@@ -144,5 +144,16 @@
                     "credits": "CP8888"
                 }
             ], 
+            "14": {
+            "name": "Comac C919",
+            "liveries": [
+                {
+                    "name": "Tibet Airlines",
+                    "texture": [
+                        "https://github.com/CCA131488/livery/blob/24b98fd8d1832ee45ccd0b5a10d922c99ccc618f/livery/C919/tibet.png?raw=true"
+                    ],
+                    "credits": "YX＆CP8888"
+                }
+            ], 
 
 
