@@ -17,7 +17,7 @@ jobs:
             [
               {
                 "author": {
-                  "name": "GeoFS-hub",  # 仓库/机器人标识，可自定义
+                  "name": "GitHub Stats",  # 仓库/机器人标识，可自定义
                   "icon_url": "https://github.githubassets.com/favicons/favicon.png"
                 },
                 "title": "JSON 文件已更新",
@@ -196,4 +196,5 @@ jobs:
                     "credits": "YX＆CP8888"
                 }
             ], 
+
 
