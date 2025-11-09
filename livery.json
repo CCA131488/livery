@@ -155,3 +155,16 @@
                     "credits": "YX＆CP8888"
                 }
             ], 
+            "15": {
+            "name": "Airbus A320neo",
+            "liveries": [
+                {
+                    "name": "China Southern",
+                    "texture": [
+                     "https://github.com/CCA131488/livery/blob/6f02ab2e5189dff0fd6cfa59fe7daa433df6cdb4/livery/A320neo/chinasouthern.png?raw=true"
+                    ],
+                    "credits": "31124呀"
+                }
+            ], 
+
+
