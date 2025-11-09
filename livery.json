@@ -166,14 +166,4 @@
                     "credits": "KN5290"
                 }
             ], 
-         {
-            "name": "Airbus A321neo",
-            "liveries": [
-                {
-                    "name": "Shenzhen Airlines",
-                    "texture": [
-                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/shenzhen.png"
-                    ],
-                    "credits": "CP8888"
-                }
-            ], 
+    
