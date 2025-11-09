@@ -166,4 +166,26 @@
                     "credits": "KN5290"
                 }
             ], 
-    
+         {
+            "name": "Airbus A350-900",
+            "liveries": [
+                {
+                    "name": "Yx Airlines (ULR livery)",
+                    "texture": [
+                     "https://github.com/CCA131488/livery/blob/main/livery/Airbus%20A350-900/YXulr.png?raw=true"
+                    ],
+                    "credits": "YX"
+                }
+            ],
+         {
+            "name": "Airbus A321neo",
+            "liveries": [
+                {
+                    "name": "Shenzhen Airlines",
+                    "texture": [
+                     "https://github.com/CCA131488/livery/blob/main/livery/A321neo/shenzhen.png?raw=true"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
+
