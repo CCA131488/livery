@@ -1,6 +1,6 @@
 {
     "name": "livery",
-     "1": {
+        {
             "name": "Boeing b787-9",
             "liveries": [
                 {
@@ -12,7 +12,7 @@
                     "credits": "CP8888"
                 }
             ],       
- "2": {
+        {
             "name": "Boeing b737-800",
             "liveries": [
                 {
@@ -23,7 +23,7 @@
                     "credits": "CP8888"
                 }
             ],
-     "3": {
+        {
             "name": "Boeing b737max8",
             "liveries": [
                 {
@@ -34,7 +34,7 @@
                     "credits": "CP8888"
                 }
             ],
-         "4": {
+        {
             "name": "Boeing b737-700",
             "liveries": [
                 {
@@ -45,7 +45,7 @@
                     "credits": "CP8888"
                 }
             ],
-         "5": {
+        {
             "name": "Airbus a321-211",
             "liveries": [
                 {
@@ -56,7 +56,7 @@
                     "credits": "CP8888"
                 }
             ],
-          "6": {
+        {
             "name": "Airbus a330-900neo",
             "liveries": [
                 {
@@ -67,7 +67,7 @@
                     "credits": "CP8888"
                 }
             ],   
-           "7": {
+        {
             "name": "Airbus a320neo",
             "liveries": [
                 {
@@ -78,7 +78,7 @@
                     "credits": "CP8888"
                 }
             ],      
-          "8": {
+        {
             "name": "Airbus a330-900neo",
             "liveries": [
                 {
@@ -89,7 +89,7 @@
                     "credits": "TOMAIIM＆CP8888"
                 }
             ],      
-          "9": {
+         {
             "name": "Boeing 747-8F",
             "liveries": [
                 {
@@ -100,7 +100,7 @@
                     "credits": "CP8888"
                 }
             ],      
-           "10": {
+        {
             "name": "Boeing 737-800",
             "liveries": [
                 {
@@ -111,7 +111,7 @@
                     "credits": "CP8888"
                 }
             ],    
-            "11": {
+        {
             "name": "Airbus A350-900",
             "liveries": [
                 {
@@ -122,7 +122,7 @@
                     "credits": "YX"
                 }
             ], 
-            "12": {
+        {
             "name": "Comac C919",
             "liveries": [
                 {
@@ -133,7 +133,7 @@
                     "credits": "YX"
                 }
             ], 
-            "13": {
+          {
             "name": "Boeing 737-600",
             "liveries": [
                 {
@@ -144,7 +144,7 @@
                     "credits": "CP8888"
                 }
             ], 
-            "14": {
+         {
             "name": "Comac C919",
             "liveries": [
                 {
@@ -155,7 +155,7 @@
                     "credits": "YX＆CP8888"
                 }
             ], 
-            "15": {
+         {
             "name": "Airbus A320neo",
             "liveries": [
                 {
@@ -164,5 +164,16 @@
                      "https://github.com/CCA131488/livery/blob/6f02ab2e5189dff0fd6cfa59fe7daa433df6cdb4/livery/A320neo/chinasouthern.png?raw=true"
                     ],
                     "credits": "KN5290"
+                }
+            ], 
+         {
+            "name": "Airbus A321neo",
+            "liveries": [
+                {
+                    "name": "Shenzhen Airlines",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/shenzhen.png"
+                    ],
+                    "credits": "CP8888"
                 }
             ], 
