@@ -29,9 +29,9 @@
                 {
                     "name": "Shenzhen Airlines",
                     "texture": [
-                        "https://github.com/CCA131488/livery/blob/main/livery/737MAX8/shenzhen7M8.png?raw=true"
+                        "https://github.com/CCA131488/livery/blob/a4f4d090bc263a038fdd2b57195480fd1e5f6bb8/livery/737MAX8/shenzhen.jpg?raw=true"
                     ],
-                    "credits": "CP8888"
+                    "credits": "KN5290"
                 }
             ],
         {
@@ -188,4 +188,47 @@
                     "credits": "CP8888"
                 }
             ],
-
+         {
+            "name": "Boeing 737-800",
+            "liveries": [
+                {
+                    "name": "Mandarin Airlines(new design)",
+                    "texture": [
+                     "https://github.com/CCA131488/livery/blob/a4f4d090bc263a038fdd2b57195480fd1e5f6bb8/livery/737-800/B-18653.png?raw=true"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
+        {
+            "name": "Boeing 737-800",
+            "liveries": [
+                {
+                    "name": "Xiamen Airlines (SkyTeam livery)",
+                    "texture": [
+                     "https://github.com/CCA131488/livery/blob/a4f4d090bc263a038fdd2b57195480fd1e5f6bb8/livery/737-800/Xiamenskyteam.png?raw=true"
+                    ],
+                    "credits": "KN5290"
+                }
+            ],
+     {
+        "name": "Boeing 737MAX8",
+            "liveries": [
+                {
+                    "name": "China Eastern",
+                    "texture": [
+                     "https://github.com/CCA131488/livery/blob/a4f4d090bc263a038fdd2b57195480fd1e5f6bb8/livery/737MAX8/chinaeastern.png?raw=true"
+                    ],
+                    "credits": "KN5290"
+                }
+            ],
+        {
+        "name": "MD11",
+            "liveries": [
+                {
+                    "name": "UPS",
+                    "texture": [
+                     "https://github.com/CCA131488/livery/blob/a4f4d090bc263a038fdd2b57195480fd1e5f6bb8/livery/MD11/N259UP.png?raw=true"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
