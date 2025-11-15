@@ -298,3 +298,25 @@
                     "credits": "CP8888"
                 }
             ],
+	{
+        "name": "Boeing 737MAX8",
+            "liveries": [
+                {
+                    "name": "Air China",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/737MAX8/CA.png"
+                    ],
+                    "credits": "TOMAIIM"
+                }
+            ],
+	{
+        "name": "Boeing 737MAX8",
+            "liveries": [
+                {
+                    "name": "China Southern",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/737MAX8/CZ.png"
+                    ],
+                    "credits": "TOMAIIM"
+                }
+            ],
