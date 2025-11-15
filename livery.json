@@ -276,3 +276,25 @@
                     "credits": "YX"
                 }
             ], 
+	{
+        "name": "Airbus A321neo",
+            "liveries": [
+                {
+                    "name": "West Air",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/A321neo/West Air.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ], 
+	{
+        "name": "Airbus A321neo",
+            "liveries": [
+                {
+                    "name": "West Air (old radome)",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/A321neo/West Airoldradome.png"
+                    ],
+                    "credits": "CP8888"
+                }
+            ],
