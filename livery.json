@@ -265,3 +265,14 @@
                     "credits": "YX"
                 }
             ],  
+           {
+        "name": "Boeing 777F",
+            "liveries": [
+                {
+                    "name": "YX Cargo",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/777F/YXcargo.png"
+                    ],
+                    "credits": "YX"
+                }
+            ], 
