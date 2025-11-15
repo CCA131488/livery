@@ -232,3 +232,36 @@
                     "credits": "CP8888"
                 }
             ],
+             {
+        "name": "Boeing 737MAX8",
+            "liveries": [
+                {
+                    "name": "YX",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/737MAX8/YX.png"
+                    ],
+                    "credits": "YX"
+                }
+            ],  
+      {
+        "name": "Boeing 737-900ER",
+            "liveries": [
+                {
+                    "name": "YX",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/737-900ER/YX.png"
+                    ],
+                    "credits": "YX"
+                }
+            ],  
+           {
+        "name": "Boeing 777-200LR",
+            "liveries": [
+                {
+                    "name": "YX",
+                    "texture": [
+                     "https://raw.githubusercontent.com/CCA131488/livery/main/livery/777-200LR/YX.png"
+                    ],
+                    "credits": "YX"
+                }
+            ],  
